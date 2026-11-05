@@ -73,4 +73,39 @@ Like this:
 
 For the drawing part you would need to switch over to F.silkscreen.
 
+### CAD 
+
+For this part you have no restrictions, you can use any modelling software like freeCAD or tinkercad.
+
+For making things easier you can import the radar.step and build the enclosure on top of it.
+
+I made mine like this:
+
+The Body:
+<img width="821" height="729" alt="color" src="https://github.com/user-attachments/assets/1af43e05-c7f9-4129-833d-e3f677a6f644" />
+
+The lid:
+<img width="664" height="768" alt="color2" src="https://github.com/user-attachments/assets/2c4070d6-005b-4e2a-9400-77e247d8baab" />
+
+
+### Code 
+
+For the code we would be using Arduino ide.
+
+We can simply just copy and paste the code into arduino ide, set the board to esp32 s3 dev module and upload.
+
+### final 3d view for PCB
+
+<img width="1721" height="931" alt="3d view" src="https://github.com/user-attachments/assets/25f8e3f0-b539-4331-86d2-4a001852c4b9" />
+
+
+
+
+## Problems I faced
+
+I mainly faced problems in the CAD part as it was my first time designing an  enclosure for a PCB. The main problem was lifting the pcb up from the cad, so that the soldered pins dont clash with the CAD. It took me a time to figure it out but then I succeeded. With that I learnt how to design an enclosure in CAD.
+
+# Built for half life
+
+
 
