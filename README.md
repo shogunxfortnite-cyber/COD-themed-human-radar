@@ -33,4 +33,4 @@ So the schematic looks like this:
 <img width="1121" height="706" alt="sche" src="https://github.com/user-attachments/assets/d315d5a2-2b7b-4d6e-b438-7f49199457cb" />
 You can do the connections according to this.
 #### Symbols and footprints 
-For the symbols and footprints you can check out the folder named Symbols and footprints (It has already been made its just a copy)
+For the symbols and footprints you can check out the folder named Symbols and footprints (It has already been made its just a copy), execept for esp 32, it can be natively downloaded from kicad itself.
