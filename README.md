@@ -21,3 +21,16 @@ Its equipped with a ESP32 S3 DEVKIT C1 N16R8 for delivering fast and powerful pe
 | CAD lid | 1 | Robu | $2.00 | $2.00 | [Link](https://robu.in/product/3d-printing-service1/) |
 | Estimated total shipping | 1 | - | $4.00 | $4.00 | - |
 | **Total** | **11** | | | **$43.00** | |
+
+# Guide
+###### This course will guide you for making the PROJECT.
+
+
+## Kicad
+
+### Schematic 
+So the schematic looks like this:
+<img width="1121" height="706" alt="sche" src="https://github.com/user-attachments/assets/d315d5a2-2b7b-4d6e-b438-7f49199457cb" />
+You can do the connections according to this.
+#### Symbols and footprints 
+For the symbols and footprints you can check out the folder named Symbols and footprints (It has already been made its just a copy)
