@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/qq9jhbqrbfxbsthb2yrb7ych)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A human radar
+> A Call of duty themed human radar, which even tracks micro-movements such as breathing and is paired up with a 2.8 inch tft for the radar ui displaying.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
