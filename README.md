@@ -34,3 +34,27 @@ So the schematic looks like this:
 You can do the connections according to this.
 #### Symbols and footprints 
 For the symbols and footprints you can check out the folder named Symbols and footprints (It has already been made its just a copy), execept for esp 32, it can be natively downloaded from kicad itself.
+
+
+### Footprint assignment
+
+So you can assign the footprints according to  this image:
+<img width="1260" height="711" alt="foooot" src="https://github.com/user-attachments/assets/f77ef123-e165-41e8-9e55-2965204258bb" />
+
+### PCB
+So the initial start is like this:
+<img width="1321" height="866" alt="hhhhhhhhhhhhhhhhh" src="https://github.com/user-attachments/assets/5c1a2eb3-057a-49fb-9c09-6619a27e2e4e" />
+
+
+Now we need to arrange it in a user friendly manner, so either you can arrange it like this or any other way which suites you:
+
+<img width="687" height="552" alt="ggg" src="https://github.com/user-attachments/assets/c13f520f-afae-468c-9b5d-9d963c50eb82" />
+
+Now comes the fun part routing, this has no restrictions, you can route it any way you want.
+
+I have routed it like this:
+
+<img width="587" height="701" alt="bbbbbb" src="https://github.com/user-attachments/assets/3df0e5da-1d81-4a5c-8faa-acfe0166e3e7" />
+
+
+
