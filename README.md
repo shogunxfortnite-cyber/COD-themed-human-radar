@@ -50,11 +50,27 @@ Now we need to arrange it in a user friendly manner, so either you can arrange i
 
 <img width="687" height="552" alt="ggg" src="https://github.com/user-attachments/assets/c13f520f-afae-468c-9b5d-9d963c50eb82" />
 
+Now comes the easy part, drawing the pcb outlines, this we would need to switch our current layer to edge.cuts and draw our custom outline.
+
+I drew it like this:
+
+<img width="836" height="675" alt="aaaaaaa" src="https://github.com/user-attachments/assets/9bac2796-b04d-4c35-a778-4ea85b419fe2" />
+
+
 Now comes the fun part routing, this has no restrictions, you can route it any way you want.
 
 I have routed it like this:
 
 <img width="587" height="701" alt="bbbbbb" src="https://github.com/user-attachments/assets/3df0e5da-1d81-4a5c-8faa-acfe0166e3e7" />
 
+For the red traces switch to F.cu layer and press X on your keyboard and for blue switch to B.cu.
+
+Now comes the really fun part drawings, you can customize your board drawings your way.
+
+Like this:
+
+<img width="531" height="639" alt="hhhhhhhhhhhhhhh" src="https://github.com/user-attachments/assets/20f427e8-e363-423f-866c-a7a16525a12e" />
+
+For the drawing part you would need to switch over to F.silkscreen.
 
 
